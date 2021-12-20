@@ -1,0 +1,12 @@
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\bin\Debug\sqlsuleymann.exe.config
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\bin\Debug\sqlsuleymann.exe
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\bin\Debug\sqlsuleymann.pdb
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.csproj.AssemblyReference.cache
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.Form1.resources
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.Form2.resources
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.Properties.Resources.resources
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.csproj.GenerateResource.cache
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.exe
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.pdb
+C:\Users\Suleyman.Arslan\source\repos\sqlsuleymann\sqlsuleymann\obj\Debug\sqlsuleymann.Form3.resources
